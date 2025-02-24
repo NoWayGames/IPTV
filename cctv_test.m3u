@@ -6,10 +6,6 @@ http://itv.hua.ee/TVOD/5000000008000023253/bestzb/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://hk.666230.xyz/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/bb.php?id=cctv16hd8m/8000000.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
 http://itv.hua.ee/TVOD/1000000006000233001/ystenlive/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克4K
 http://itv.hua.ee/TVOD/5000000008000023254/bestzb/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克4K
-http://hk.666230.xyz/%E5%85%AC%E4%BC%97%E5%8F%B7%E7%9D%A1%E7%9C%BC%E8%BF%B7%E7%A6%BB%E7%9A%84%E7%8C%AB/bb.php?id=cctv16hd4k/15000000.m3u8

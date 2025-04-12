@@ -1,825 +1,295 @@
 #EXTM3U x-tvg-url="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/e.xml"
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.154/TVOD/88888888/224/3221226075/main.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.157/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://itv.iptv1688.top:2016/itv.php?id=CCTV1
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.137.205/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.173/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-https://rthktv33-live.akamaized.net/hls/live/2101641/RTHKTV33/stream05/streamPlaylist.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.154/TVOD/88888888/224/3221226119/main.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.67.7:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.239/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.155/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.67.98:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.167/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.211/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.181/PLTV/88888888/224/3221226119/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.200/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.64.87:6610/PLTV/88888888/224/3221226016/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.181/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.198/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://iptv.huuc.edu.cn/hls/cctv1hd.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.64.87:6610/PLTV/88888888/224/3221226559/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.245/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.251/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.167/TVOD/88888888/224/3221225816/main.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226514/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://cdn5.163189.xyz/live/cctv1/stream.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.179/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.155/TVOD/88888888/224/3221226075/main.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.157/TVOD/88888888/224/3221225816/main.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.215/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.177/TVOD/88888888/224/3221225816/main.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.86/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.135.28/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPpqgHe3PQ5GNQoO-yUgA8C%2CEND
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.177/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.67.148/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226016/.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.66.113:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182562/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/main.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000007000000001243/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.67.108/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://8.138.7.223/tv/ptbtv.php?id=27
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182562/main.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.155/TVOD/88888888/224/3221226119/main.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.135.28/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000007000000001243/main.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.157/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226016
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.183/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.134.65.175/PLTV/88888888/224/3221225816/1.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.177/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226559/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182562/main.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182562/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://39.135.133.156/TVOD/88888888/224/3221225816/main.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://1.82.234.101:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://36.143.233.234/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://107.174.52.32/itv.php?id=CCTV1
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://1.82.234.107:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://1.82.234.109:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://1.82.234.113:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://1.82.234.145:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://1.82.234.148:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://1.82.234.153:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://1.82.234.169:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://1.82.234.103:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv1HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://113.56.147.15/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://117.149.200.231/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://119.36.140.226/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://119.36.63.228/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://120.232.248.238/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://124.225.10.226/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://124.225.74.208/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://124.225.96.25/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://183.240.137.194/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://183.240.137.195/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://58.19.21.160/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://112.67.248.37/history.511.gitv.tv/gitv_live/G_CCTV-1-HD-265-8M/G_CCTV-1-HD-265-8M.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://112.67.248.37/history.511.gitv.tv/gitv_live/G_CCTV-1-MD/G_CCTV-1-MD.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://112.67.248.37/history.511.gitv.tv/gitv_live/GITV-26/GITV-26.m3u8
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
-http://112.67.248.37/history.511.gitv.tv/gitv_live/CCTV-1-HD/CCTV-1-HD.m3u8
+http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226895/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EI0Rkc6neBYgfpoJ1yud8Fw%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7Epd7QgO4HFWH0z34SUb2Vs%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192714%2C%2C%2C20240420192714%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/1.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226016/index.m3u8
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV1.png" group-title="CCTV1",CCTV-1 综合
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226016/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV2.png" group-title="CCTV2",CCTV-2 财经
+http://[2409:8087:1a01:df::406f]:80/wh7f454c46tw1241164675_1575082505/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8?icpid=88888888&RTS=1713968070&from=4&hms_devid=692&prioritypopid=4&online=1713968070&vqe=3
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV2.png" group-title="CCTV2",CCTV-2 财经
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV2.png" group-title="CCTV2",CCTV-2 财经
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV2.png" group-title="CCTV2",CCTV-2 财经
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV2.png" group-title="CCTV2",CCTV-2 财经
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV2.png" group-title="CCTV2",CCTV-2 财经
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221225588/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV3.png" group-title="CCTV3",CCTV-3 综艺
+http://[2409:8087:1a01:df::4041]/TVOD/88888888/224/3221225799/main.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV3.png" group-title="CCTV3",CCTV-3 综艺
+http://[2409:8087:1a01:df::4041]:80/TVOD/88888888/224/3221225799/main.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV3.png" group-title="CCTV3",CCTV-3 综艺
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV3.png" group-title="CCTV3",CCTV-3 综艺
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV3.png" group-title="CCTV3",CCTV-3 综艺
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV3.png" group-title="CCTV3",CCTV-3 综艺
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV3.png" group-title="CCTV3",CCTV-3 综艺
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV3.png" group-title="CCTV3",CCTV-3 综艺
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226021/index.m3u8
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV3.png" group-title="CCTV3",CCTV-3 综艺
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226021/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
+http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?servicetype=1&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EPepnxHHB2d6Hk2dZWM77MyFlBN5q1KnYLvimM9pqT7EfCf-e5nKehMQzrOBwWduf%7EExtInfo9bj61dxzlMXrsixrqcFYPg%3A20240420192542%2C%2C%2C20240420192542%2C%2C10001000275495%2C-1%2C0%2C1%2C-1%2C%2C2%2C2201300%2C%2C%2C2%2C%2C%2CEND&GuardEncType=2
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226007/.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305577/main.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8?
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305577/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221226007/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.155/wh7f454c46tw2037638644_1228338163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://[2409:8087:1:20:20::26]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226335/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EBFJ5gRpm8ntK8JEFPZOhLQ%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.65.175/PLTV/88888888/224/3221225797/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.154/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047433/main.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.67.108/PLTV/88888888/224/3221225797/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047433/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.67.110:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.154/TVOD/88888888/224/3221225797/main.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.67.148/PLTV/88888888/224/3221225797/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.167/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.67.110/PLTV/88888888/224/3221226092/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://107.174.52.32/itv.php?id=CCTV4
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.177/wh7f454c46tw2037638644_1228338163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://1.82.234.169:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv4HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.155/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.67.148/PLTV/88888888/224/3221226092/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.65.181/PLTV/88888888/224/3221226092/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305577/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.167/wh7f454c46tw2037638644_1228338163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.154/wh7f454c46tw2037638644_1228338163/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://112.67.248.37/history.511.gitv.tv/gitv_live/G_CCTV-4-HD-265-8M/G_CCTV-4-HD-265-8M.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047433/main.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.64.87:6610/PLTV/88888888/224/3221226428/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.136/PLTV/88888888/224/3221226092/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.155/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305577/main.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.167/TVOD/88888888/224/3221226092/main.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226428/.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.65.181/PLTV/88888888/224/3221225797/1.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://iptv.huuc.edu.cn/hls/cctv4hd.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.157/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.154/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226470/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7E0wP1dRMt9qCzHdvA65wh1w%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMcuN2HH7RLPyPHWOUWhSMk%2CEND
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://itv.iptv1688.top:2016/itv.php?id=CCTV4
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226007/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4.png" group-title="CCTV4",CCTV-4 中文国际
-http://39.135.133.155/TVOD/88888888/224/3221225797/main.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="CCTV4K",CCTV-4K 超高清
-http://1.82.234.169:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV4K/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="CCTV4K",CCTV-4K 超高清
-http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/main.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="CCTV4K",CCTV-4K 超高清
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="CCTV4K",CCTV-4K 超高清
-http://tvgslb.hn.chinamobile.com:8089/180000001001/32023092211020848462000290559536/index.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="CCTV4K",CCTV-4K 超高清
-https://stream1.freetv.fun/54376a4d22fadd3ac7fb8fcc0b92321f9a5736c597ad6f68cacb0a2e835cf92b.m3u8
-#EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV4K.png" group-title="CCTV4K",CCTV-4K 超高清
-http://tvgslb.hn.chinamobile.com:8089/180000001002/32023092211020848462000290559536/main.m3u8
-#N/A
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305581/1.m3u8
-#N/A
-http://tvbox6.icu/tv/migu.php?id=cctv4m
-#N/A
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305581/1.m3u8
-#N/A
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000071000000305577/1.m3u8
-#N/A
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000071000000305577/1.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/8/3221226007/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.209/PLTV/88888888/224/3221225818/1.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.173/PLTV/88888888/224/3221225818/1.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8?
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.66.123:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.249/PLTV/88888888/224/3221225818/1.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.198/PLTV/88888888/224/3221225818/1.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://219.159.91.10:9901/tsfile/live/0005_1.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226019/index.m3u8
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.211/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.135.28/TVOD/88888888/224/3221225818/main.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226454/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7ErKwB8Qqtvssoy-K7GEgesQ%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNOIR_8g_qYRqpV5wTQqRILi%2CEND
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.181/PLTV/88888888/224/3221225635/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.215/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.154/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.64.87:6610/PLTV/88888888/224/3221226019/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047434/main.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047434/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047434/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://itv.iptv1688.top:2016/itv.php?id=CCTV5
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.239/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://107.174.52.32/itv.php?id=CCTV5
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226019
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.177/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047434/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047434/main.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.245/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.67.110/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.67.108/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.167/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.179/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.213/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226019/.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.166/PLTV/88888888/224/3221225670/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://1.82.234.169:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://[2409:8087:8:21::16]:6610/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226469/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EcnoJZd_sZxCC6bZYZh4R6g%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.155/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.207/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.247/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.67.148/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://iptv.huuc.edu.cn/hls/cctv5hd.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.175/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047434/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.251/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.154/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.157/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.243/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://112.67.248.37/history.511.gitv.tv/gitv_live/G_CCTV-5-HD-265-5M/G_CCTV-5-HD-265-5M.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://112.67.248.37/history.511.gitv.tv/gitv_live/G_CCTV-5-HD-265-8M/G_CCTV-5-HD-265-8M.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226019/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="CCTV5",CCTV-5 体育
-http://39.134.65.181/PLTV/88888888/224/3221225818/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.155/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.247/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000008000000047442/main.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.183/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.63.11:6610/PLTV/88888888/224/3221225603/index.m3u8?
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.155/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.245/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.196/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://itv.iptv1688.top:2016/itv.php?id=CCTV5p
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.3/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/15903942991.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.67.148/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.67.108/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.177/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.67.6:80/wh7f454c46tw2029879648_2093826562/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1590394299-1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182561/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.194/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000000000000020000000000182561/main.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226894/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EevWZ0zmguDsOY_Mf3SM5TA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://tvgslb.hn.chinamobile.com:8089/000000001000/1000000001000020505/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.207/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.239/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://[2409:8087:1:20:20::2c]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226458/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7Em70vyfVI_MkrcLYjHWnqOA%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNNlS0O1LA8iGydXPYujpRue%2CEND
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.209/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.157/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://1.82.234.169:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv5SportHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.154/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.249/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047442/main.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047442/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182561/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.251/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000000000000020000000000182561/main.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000008000000047442/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.66.108:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.141/PLTV/88888888/224/3221225507/Cf.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.154/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.181/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.86/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://iptv.huuc.edu.cn/hls/cctv5phd.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.175/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://tvbox6.icu/tv/migu.php?id=cctv5p
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.213/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.157:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.135.133.154/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221225603/.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221225603
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.243/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.67.110/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.215/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.211/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://112.67.248.37/history.511.gitv.tv/gitv_live/G_CCTV-5PLUS-HD-265-8M/G_CCTV-5PLUS-HD-265-8M.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://39.134.65.173/PLTV/88888888/224/3221225507/1.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://112.67.248.37/history.511.gitv.tv/gitv_live/G_CCTV-5PLUS-MD/G_CCTV-5PLUS-MD.m3u8
-#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
-http://107.174.52.32/itv.php?id=CCTV5+
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.213/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.175/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.133.177/TVOD/88888888/224/3221226125/main.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.108/PLTV/88888888/224/3221226125/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.110/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.110/PLTV/88888888/224/3221226077/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133801/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.251/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000050000000133801/main.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.207/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.245/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.66.114:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226571/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.135.89/wh7f454c46tw654950306_-617080634/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8?icpid=88888888&RTS=1612327082&from=1&hms_devid=1013&vqe=3
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.133.177/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.133.157/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.243/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.198/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.181/PLTV/88888888/224/3221226077/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.247/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://8.138.7.223/tv/ptbtv.php?id=28
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.2/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.177/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.64.87:6610/PLTV/88888888/224/3221226571/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226446/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EU-IJJyzlYeEElWsacI4JKw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNMT7DWkynQtRPzNDJCOY_C_%2CEND
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://107.174.52.32/itv.php?id=CCTV13
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.181/PLTV/88888888/224/3221226125/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.64.87:6610/PLTV/88888888/224/3221226537/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.148/PLTV/88888888/224/3221226125/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.137.205/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.249/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.133.177/TVOD/88888888/224/3221226077/main.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://iptv.huuc.edu.cn/hls/cctv13hd.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/main.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://[2409:8087:1:20:20::29]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221226316/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EqHPe9pEEWJ00hz1ArnRZVA%7EtP4-l0lmSfjwLWEfK_el1vH_mv-s1zo4AQJwdedaVwG9xkuFTDg8J26cwOrNJzn20BErrHdLhuZ9EzLUCD3PMW-OMx4MGteHV2vLeW6BqoY%2CEND
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.110:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.200/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://itv.iptv1688.top:2016/itv.php?id=CCTV13
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000050000000133801/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.209/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.64.87:6610/PLTV/88888888/224/3221226011/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.183/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.148/PLTV/88888888/224/3221226077/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.135.89/wh7f454c46tw654950306_617080634/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8?icpid=88888888&RTS=1612327082&from=1&hms_devid=1013&vqe=3
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://1.82.234.169:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTVNewsHD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.133.136/PLTV/88888888/224/3221226077/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.145/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.103:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.194/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226011
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.196/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226537/.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226571/.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.133.157/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.215/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.141/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.239/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.106/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226537/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.173/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.86/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226571/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.62.141:6610/PLTV/88888888/224/3221226011/index.m3u8?
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.181/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.67.108/PLTV/88888888/224/3221225812/1.m3u8
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
-http://39.134.65.211/PLTV/88888888/224/3221225812/1.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226019/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="CCTV5+",CCTV-5+ 体育赛事
+http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225603/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="CCTV6",CCTV-6 电影
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="CCTV6",CCTV-6 电影
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="CCTV6",CCTV-6 电影
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="CCTV6",CCTV-6 电影
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="CCTV6",CCTV-6 电影
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="CCTV6",CCTV-6 电影
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/1.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="CCTV6",CCTV-6 电影
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="CCTV6",CCTV-6 电影
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="CCTV6",CCTV-6 电影
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="CCTV6",CCTV-6 电影
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226010/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV7.png" group-title="CCTV7",CCTV-7 国防军事
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV7.png" group-title="CCTV7",CCTV-7 国防军事
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV7.png" group-title="CCTV7",CCTV-7 国防军事
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV7.png" group-title="CCTV7",CCTV-7 国防军事
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV7.png" group-title="CCTV7",CCTV-7 国防军事
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV7.png" group-title="CCTV7",CCTV-7 国防军事
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/1.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV7.png" group-title="CCTV7",CCTV-7 国防军事
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV7.png" group-title="CCTV7",CCTV-7 国防军事
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV7.png" group-title="CCTV7",CCTV-7 国防军事
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV7.png" group-title="CCTV7",CCTV-7 国防军事
+http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225733/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV8.png" group-title="CCTV8",CCTV-8 电视剧
+http://[2409:8087:1a01:df::4051]:80/TVOD/88888888/224/3221225795/main.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV8.png" group-title="CCTV8",CCTV-8 电视剧
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV8.png" group-title="CCTV8",CCTV-8 电视剧
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV8.png" group-title="CCTV8",CCTV-8 电视剧
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV8.png" group-title="CCTV8",CCTV-8 电视剧
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV8.png" group-title="CCTV8",CCTV-8 电视剧
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV8.png" group-title="CCTV8",CCTV-8 电视剧
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226008/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV8.png" group-title="CCTV8",CCTV-8 电视剧
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV8.png" group-title="CCTV8",CCTV-8 电视剧
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226008/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV9.png" group-title="CCTV9",CCTV-9 纪录
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV9.png" group-title="CCTV9",CCTV-9 纪录
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV9.png" group-title="CCTV9",CCTV-9 纪录
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV9.png" group-title="CCTV9",CCTV-9 纪录
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV9.png" group-title="CCTV9",CCTV-9 纪录
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV9.png" group-title="CCTV9",CCTV-9 纪录
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV9.png" group-title="CCTV9",CCTV-9 纪录
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV9.png" group-title="CCTV9",CCTV-9 纪录
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225734/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV10.png" group-title="CCTV10",CCTV-10 科教
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV10.png" group-title="CCTV10",CCTV-10 科教
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV10.png" group-title="CCTV10",CCTV-10 科教
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV10.png" group-title="CCTV10",CCTV-10 科教
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV10.png" group-title="CCTV10",CCTV-10 科教
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV10.png" group-title="CCTV10",CCTV-10 科教
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/1.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV10.png" group-title="CCTV10",CCTV-10 科教
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV10.png" group-title="CCTV10",CCTV-10 科教
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV10.png" group-title="CCTV10",CCTV-10 科教
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225730/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV11.png" group-title="CCTV11",CCTV-11 戏曲
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV11.png" group-title="CCTV11",CCTV-11 戏曲
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV11.png" group-title="CCTV11",CCTV-11 戏曲
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV11.png" group-title="CCTV11",CCTV-11 戏曲
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV11.png" group-title="CCTV11",CCTV-11 戏曲
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV11.png" group-title="CCTV11",CCTV-11 戏曲
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225597/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV11.png" group-title="CCTV11",CCTV-11 戏曲
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV11.png" group-title="CCTV11",CCTV-11 戏曲
+http://[2409:8087:1a0a:df::404b]/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225597/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV12.png" group-title="CCTV12",CCTV-12 社会与法
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV12.png" group-title="CCTV12",CCTV-12 社会与法
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV12.png" group-title="CCTV12",CCTV-12 社会与法
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV12.png" group-title="CCTV12",CCTV-12 社会与法
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV12.png" group-title="CCTV12",CCTV-12 社会与法
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV12.png" group-title="CCTV12",CCTV-12 社会与法
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV12.png" group-title="CCTV12",CCTV-12 社会与法
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225731/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV13.png" group-title="CCTV13",CCTV-13 新闻
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226011/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV14.png" group-title="CCTV14",CCTV-14 少儿
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV14.png" group-title="CCTV14",CCTV-14 少儿
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV14.png" group-title="CCTV14",CCTV-14 少儿
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV14.png" group-title="CCTV14",CCTV-14 少儿
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV14.png" group-title="CCTV14",CCTV-14 少儿
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV14.png" group-title="CCTV14",CCTV-14 少儿
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV14.png" group-title="CCTV14",CCTV-14 少儿
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV14.png" group-title="CCTV14",CCTV-14 少儿
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225732/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV15.png" group-title="CCTV15",CCTV-15 音乐
+http://[2409:8087:1a01:df::4033]:80/TVOD/88888888/224/3221226127/main.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV15.png" group-title="CCTV15",CCTV-15 音乐
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV15.png" group-title="CCTV15",CCTV-15 音乐
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV15.png" group-title="CCTV15",CCTV-15 音乐
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV15.png" group-title="CCTV15",CCTV-15 音乐
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV15.png" group-title="CCTV15",CCTV-15 音乐
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225601/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV15.png" group-title="CCTV15",CCTV-15 音乐
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225601/index.m3u8
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV15.png" group-title="CCTV15",CCTV-15 音乐
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221225601/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.239/PLTV/88888888/224/3221225893/1.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434986/index.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.245/PLTV/88888888/224/3221225893/1.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8?
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.215/PLTV/88888888/224/3221225893/1.m3u8
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://itv.iptv1688.top:2016/itv.php?id=CCTV16
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.173/PLTV/88888888/224/3221225893/1.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.181/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.133.177/TVOD/88888888/224/3221225893/main.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000079000000434986/main.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.133.177/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000085000000178450/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.133.167:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.67.108/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.133.167/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://tvgslb.hn.chinamobile.com:8089/180000001001/00000001000000000085000000178450/main.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.67.101:80/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.200/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.67.148/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://107.174.52.32/itv.php?id=CCTV16
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.251/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.67.6:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.194/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.213/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.106/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://[2409:8087:1:20:20::2a]/otttv.bj.chinamobile.com/PLTV/88888888/224/3221227002/1.m3u8?GuardEncType=2&accountinfo=%7E%7EV2.0%7EX9goLRw26BM_r54des2PAw%7E_eNUbgU9sJGUcVVduOMKhafLvQUgE_zlz_7pvDimJNPt5W7-RovMDpE-7B-0PhHw%2CEND
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.135.28/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.196/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://112.67.248.37/history.511.gitv.tv/gitv_live/G_CCTV-16-CQ/G_CCTV-16-CQ.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000085000000178450/main.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.133.167/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.67.110/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.67.148/ottrrs.hl.chinamobile.com/hlj/yd/0/3221226100/.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.133.177/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.207/PLTV/88888888/224/3221225893/1.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.135.135.28/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000079000000434986/main.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000079000000434986/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://tvgslb.hn.chinamobile.com:8089/180000001002/00000001000000000085000000178450/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.65.106/ottrrs.hl.chinamobile.com/TVOD/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://php.jdshipin.com/TVOD/hljyd.php?id=3221226100
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://1.82.234.169:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/cctv16HD/__op/default/__f/index.m3u8
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16",CCTV-16 奥林匹克
-http://39.134.64.87:6610/PLTV/88888888/224/3221226100/index.m3u8?IASHttpSessionId=
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV16.png" group-title="CCTV16-4K",CCTV-16 奥林匹克4K
-http://1.82.234.169:80/tencent.live.cbncdn.cn/__cl/cg:live/__c/CCTV16_4K/__op/default/__f/index.m3u8
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/yinhe/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV17.png" group-title="CCTV17",CCTV-17 农业农村
+http://[2409:8087:1a01:df::4025]:80/TVOD/88888888/224/3221225708/main.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV17.png" group-title="CCTV17",CCTV-17 农业农村
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8?icpid=88888888&from=1&hms_devid=1012&vqe=3
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV17.png" group-title="CCTV17",CCTV-17 农业农村
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV17.png" group-title="CCTV17",CCTV-17 农业农村
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV17.png" group-title="CCTV17",CCTV-17 农业农村
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8?
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV17.png" group-title="CCTV17",CCTV-17 农业农村
+http://[2409:8087:1a01:df::4077]/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8CCTV1
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV17.png" group-title="CCTV17",CCTV-17 农业农村
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/1.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV17.png" group-title="CCTV17",CCTV-17 农业农村
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV17.png" group-title="CCTV17",CCTV-17 农业农村
+http://[2409:8087:1a01:df::4077]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/8/3221225765/index.m3u8

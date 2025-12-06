@@ -9,7 +9,7 @@ https://iptv.catvod.com/live.php?id=CCTV3
 https://iptv.catvod.com/live.php?id=CCTV4
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
 https://iptv.catvod.com/live.php?id=CCTV5
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
+#EXTINF:-1 tvg-id="CCTV5+" tvg-name="CCTV5+" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
 https://iptv.catvod.com/live.php?id=CCTV5plus
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://raw.githubusercontent.com/fanmingming/live/refs/heads/main/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
 https://iptv.catvod.com/live.php?id=CCTV6
